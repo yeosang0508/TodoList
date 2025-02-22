@@ -12,9 +12,11 @@
   "author": "CodeMix",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-scripts": "^2.1.5"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.85.0"
   },
   "browserslist": [
     ">0.2%",
@@ -23,6 +25,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "eslint": "^5.12.0"
+    "eslint": "^5.12.0",
+    "sass-loader": "^16.0.5",
+    "webpack": "^5.98.0"
   }
 }
